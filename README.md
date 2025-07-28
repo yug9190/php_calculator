@@ -1,4 +1,4 @@
-Calculator by Naveen
+📱 Calculator by Naveen
 A visually engaging mobile-styled calculator web app created using HTML, CSS, and PHP. This project allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division with a stunning animated background and a mobile device interface look.
 
 📌 Features
