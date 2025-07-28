@@ -31,5 +31,5 @@ Place the file in the htdocs folder (if using XAMPP):
 C:\xampp\htdocs\cal 
 Start Apache from the XAMPP control panel.
 
-![Uploading image.png…]()
+<img width="624" height="294" alt="image" src="https://github.com/user-attachments/assets/4b04080c-69de-4ffe-a80d-0d77fcf3b411" />
 
